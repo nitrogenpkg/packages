@@ -1,0 +1,1 @@
+https://github.com/jindrapetrik/jpexs-decompiler/releases/download/nightly1938/ffdec_14.4.0_nightly1938_setup.exe
